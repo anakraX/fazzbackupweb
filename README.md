@@ -1,6 +1,6 @@
 # FazzBackup Website
 
-https://anakraX.github.io/fazzbackupweb/
+https://anakrax.github.io/fazzbackupweb/
 
 ## Development
 
