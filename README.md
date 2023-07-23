@@ -1,6 +1,6 @@
 # FazzBackup Website
 
-https://bifebriansyah.github.io/fazzbackupweb/
+https://anakraX.github.io/fazzbackupweb/
 
 ## Development
 
